@@ -1,0 +1,6 @@
+﻿  icecream.cpp
+C:\Users\zhiye\Desktop\gui-prac7\P7\P7\icecream.cpp(29,3): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\zhiye\Desktop\gui-prac7\P7\P7\icecream.cpp(117,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zhiye\Desktop\gui-prac7\P7\P7\icecream.cpp(130,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zhiye\Desktop\gui-prac7\P7\P7\icecream.cpp(164,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  P7.vcxproj -> C:\Users\zhiye\Desktop\gui-prac7\P7\x64\Debug\P7.exe
